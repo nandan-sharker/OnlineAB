@@ -1,0 +1,93 @@
+body{
+    position: relative;
+    padding-top: 50px;
+}
+.container-fluid{
+    /*padding: 0;*/
+}
+
+.navbar-form .form-control{
+    margin-top: 10px;
+}
+.navbar-form .btn-primary{
+    margin-top: 10px;
+}
+
+.content #content_left{
+    padding-top: 50px;
+     background-color: burlywood;
+    height: 700px;
+}
+.content #content_right{
+    padding-top: 50px;
+    background-color: chocolate;
+    height: 700px;
+}
+.content #form{
+    padding-top: 150px; 
+}
+#signupform #form{
+    margin-top: 150px;
+    background-color: chocolate;
+    padding-top:70px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+#signupform{
+    height: 600px;
+}
+.navbar-nav li a{
+    font-weight: bold;
+}
+.navbar-header .navbar-brand{
+    color: crimson;
+    font-weight: bolder;
+}
+.grayback{
+    
+    background-color: gray;
+}
+
+#page-height{
+    height: 700px;
+}
+
+#details{
+    padding-top: 100px;
+}
+
+#createform textarea{
+    width: 100%;
+}
+#createform{
+    padding-top: 50px;
+}
+
+#arrow span,a{
+    font-size: 1.1em;
+    margin-top: 15px;
+}
+.about{
+    background-color: chocolate;
+    color: white;
+}
+.about p{
+    font-size: 1.3em;
+}
+.about p span{
+    color: aqua;
+}
+.footer{
+    text-align: center;
+    background-color: darkslateblue;
+    color: white;
+    padding-bottom: 3px;
+    padding-top: 5px;
+    font-size: 1.2em;
+}
+
+.footer p span{
+    color: cyan;
+}
